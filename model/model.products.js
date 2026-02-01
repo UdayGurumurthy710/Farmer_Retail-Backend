@@ -8,6 +8,11 @@ const ProductSchema = new Schema({
     trim: true,
     lowercase: true,
   },
+  status: {
+    type: String,
+    enum: ["processing", "ready", "failed"],
+    default: "processing",
+  },
   images: [
     {
       url: String,

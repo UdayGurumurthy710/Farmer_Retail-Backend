@@ -9,6 +9,8 @@ import {
 import { AuthMiddleware } from "../middleware/auth.middleware.js";
 import { authorizeRoles } from "../middleware/auth.authorizeRoles.js";
 import { errorHandler } from "../middleware/errrorHandler.middleware.js";
+import { upload } from "../config/multer.js";
+// import upload from "../middleware/upload.middleware.js";
 
 const productRoute = Router();
 
@@ -23,6 +25,7 @@ productRoute.post(
   "/",
   AuthMiddleware,
   authorizeRoles("farmer"),
+  upload.array("images", 5),
   createProductController,
   errorHandler,
 );

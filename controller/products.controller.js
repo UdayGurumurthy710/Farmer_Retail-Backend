@@ -6,6 +6,8 @@ import {
   updateProduct,
 } from "../service/products.service.js";
 
+import imageQueue from "./../queue/imageQueue.js";
+
 export const getAllProductsController = async (req, res, next) => {
   try {
     const products = await getAllProducts(req.user.id);
@@ -31,9 +33,37 @@ export const createProductController = async (req, res, next) => {
   try {
     const { createdId } = req.query;
     const productData = req.body;
+
+    console.time("TOTAL_API_TIME");
+
     const newProduct = await createProduct(productData, createdId);
+
+    const paths = req.files?.map((f) => f.path) || [];
+
+    if (paths.length) {
+      console.log("Adding image job to queue...");
+
+      await imageQueue.add(
+        "process-images",
+        {
+          productId: newProduct._id,
+          paths,
+        },
+        {
+          attempts: 3,
+          backoff: 5000,
+          removeOnComplete: true,
+          removeOnFail: false,
+        },
+      );
+
+      console.log("Job added");
+    }
+
+    console.timeEnd("TOTAL_API_TIME");
+
     res.status(201).json({
-      data: { msg: "Product created successfully" },
+      message: "Product created successfully",
       product: newProduct,
     });
   } catch (error) {

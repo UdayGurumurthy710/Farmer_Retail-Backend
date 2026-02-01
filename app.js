@@ -4,6 +4,7 @@ import helmet from "helmet";
 import { ConnectDb } from "./db/ConnectDb.js";
 import router from "./routes/user.route.js";
 import productRoute from "./routes/product.route.js";
+import morgan from "morgan";
 dotenv.config();
 
 //variables
@@ -12,6 +13,7 @@ const Port = process.env.PORT || 3000;
 
 //middleware
 app.use(express.json());
+app.use(morgan("dev"));
 
 //routes
 app.use("/api/v1/", router);

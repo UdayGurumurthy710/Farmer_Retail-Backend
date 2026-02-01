@@ -59,6 +59,7 @@ export const createProduct = async (productData, id) => {
   const newProduct = await Product.create({
     ...productData,
     createdId: id,
+    status: "processing",
   });
 
   return newProduct;

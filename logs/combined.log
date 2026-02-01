@@ -65,3 +65,9 @@
 {"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-24T04:22:15.874Z"}
 {"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-24T04:27:34.663Z"}
 {"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-24T04:36:19.504Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-02-01T08:53:22.271Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-02-01T08:54:06.081Z"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-02-01T08:54:38.651Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products/6973bd4f8baeb80ac4b01918","timestamp":"2026-02-01T08:57:48.524Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products?createdId=6973afaaac9357fa0373f888","timestamp":"2026-02-01T12:33:37.071Z"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-02-01T12:33:46.039Z"}
