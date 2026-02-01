@@ -1,0 +1,67 @@
+{"level":"info","message":"User Registered ","timestamp":"2026-01-11T10:48:04.361Z","userId":"69637fe4aa5739d48bee9767"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","timestamp":"2026-01-11T11:04:23.644Z"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-11T13:34:31.251Z","userId":"6963a6e7c86d1ccdb0234224"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-11T13:36:30.284Z","userId":"6963a75e70229791c6e67806"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-11T13:37:46.618Z","userId":"6963a7aabaaa85666c6872fe"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-11T13:39:35.703Z","userId":"6963a817baaa85666c687301"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-11T13:39:56.897Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-11T13:40:55.065Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/logout","timestamp":"2026-01-11T14:32:04.048Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-11T14:32:14.018Z"}
+{"level":"info","message":"logout successfull","timestamp":"2026-01-11T14:32:30.802Z","userId":"6963a817baaa85666c687301"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-14T15:50:46.376Z"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-14T15:56:47.873Z","userId":"6967bcbf3ecc319e9d2a614b"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T15:57:12.155Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/logout","timestamp":"2026-01-14T15:57:20.951Z"}
+{"level":"info","message":"logout successfull","timestamp":"2026-01-14T15:57:43.426Z","userId":"6967bcbf3ecc319e9d2a614b"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:05:12.827Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:05:18.219Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:05:25.344Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:06:41.331Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:07:22.621Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:08:24.265Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:08:34.861Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-14T17:08:39.663Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/logout","timestamp":"2026-01-14T17:08:45.893Z"}
+{"level":"info","message":"logout successfull","timestamp":"2026-01-14T17:08:57.467Z","userId":"6967bcbf3ecc319e9d2a614b"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-17T04:37:04.061Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-17T04:45:43.229Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-17T04:52:34.750Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-17T04:53:06.038Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-17T04:54:15.458Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-17T05:08:45.869Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-17T05:08:50.615Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-23T14:47:48.454Z"}
+{"email":"advikadigitalmediahouse@gmail.com","level":"info","message":"Login Successfull","role":"customer","timestamp":"2026-01-23T14:47:55.135Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T14:48:55.657Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T14:54:38.703Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/logout","timestamp":"2026-01-23T14:54:45.241Z"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-23T15:18:11.829Z","userId":"69739133691032565d13925f"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-23T15:19:17.191Z","userId":"69739174691032565d139262"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T15:19:34.598Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-23T15:20:37.504Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-23T15:35:09.095Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T15:35:13.444Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products?createdId=123","timestamp":"2026-01-23T16:10:21.723Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T16:10:31.643Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products?createdId=69739133691032565d13925f","timestamp":"2026-01-23T16:38:50.382Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T16:39:17.830Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-23T17:02:23.420Z"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-23T17:05:45.876Z","userId":"6973aa69a70e0ae04617ab76"}
+{"email":"developer.uday.g@gmail.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T17:06:03.583Z"}
+{"email":"developer.uday.g@gmail.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T17:07:54.704Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products/6973ab1a39c249b31ad78c38","timestamp":"2026-01-23T17:13:26.375Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products?createdId=123","timestamp":"2026-01-23T17:23:58.890Z"}
+{"level":"info","message":"User Registered ","timestamp":"2026-01-23T17:28:10.602Z","userId":"6973afaaac9357fa0373f888"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T17:28:28.004Z"}
+{"email":"developer.uday.g@gmail.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T18:03:30.270Z"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T18:20:31.971Z"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T18:24:34.334Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products/6973bd4f8baeb80ac4b01918","timestamp":"2026-01-23T18:26:44.017Z"}
+{"email":"developer.uday.g@gmail.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-23T18:28:48.644Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-23T18:33:02.254Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products","timestamp":"2026-01-24T04:20:58.403Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-24T04:21:04.575Z"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-01-24T04:22:15.874Z"}
+{"email":"udaymanojo94@gmail.com","level":"info","message":"Login Successfull","role":"admin","timestamp":"2026-01-24T04:27:34.663Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/auth/users","timestamp":"2026-01-24T04:36:19.504Z"}
