@@ -11,7 +11,7 @@ export const optimizeImage = async (path) => {
 // upload stays same (buffer expected here)
 export const uploadToCloudinary = (buffer, folder = "products") =>
   new Promise((resolve, reject) => {
-    cloudinary.uploader
+    cloudinary.v2.uploader
       .upload_stream({ folder }, (err, res) =>
         err ? reject(err) : resolve(res),
       )
@@ -21,6 +21,6 @@ export const uploadToCloudinary = (buffer, folder = "products") =>
 // delete stays same
 export const deleteImages = async (images = []) => {
   await Promise.all(
-    images.map((img) => cloudinary.uploader.destroy(img.publicId)),
+    images.map((img) => cloudinary.v2.uploader.destroy(img.publicId)),
   );
 };

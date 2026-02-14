@@ -71,3 +71,8 @@
 {"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products/6973bd4f8baeb80ac4b01918","timestamp":"2026-02-01T08:57:48.524Z"}
 {"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products?createdId=6973afaaac9357fa0373f888","timestamp":"2026-02-01T12:33:37.071Z"}
 {"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-02-01T12:33:46.039Z"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-02-14T07:20:47.560Z"}
+{"ip":"::1","level":"warn","message":"Invalid or expired JWT","path":"/api/v1/products/697f15568523e4d2a66fc5d8","timestamp":"2026-02-14T07:28:41.756Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2026-02-14 13:07:06"}
+{"level":"info","message":"Server is listening on port 5000","timestamp":"2026-02-14 13:07:06"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-14 13:07:06"}
