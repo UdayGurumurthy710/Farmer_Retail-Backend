@@ -76,3 +76,8 @@
 {"level":"info","message":"Database connected successfully","timestamp":"2026-02-14 13:07:06"}
 {"level":"info","message":"Server is listening on port 5000","timestamp":"2026-02-14 13:07:06"}
 {"level":"info","message":"Environment: development","timestamp":"2026-02-14 13:07:06"}
+{"level":"info","message":"Database connected successfully","timestamp":"2026-02-14 13:08:07"}
+{"level":"info","message":"Server is listening on port 5000","timestamp":"2026-02-14 13:08:07"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-14 13:08:07"}
+{"email":"uday.g@dtskill.com","level":"info","message":"Login Successfull","role":"farmer","timestamp":"2026-02-14 13:10:54"}
+{"level":"http","message":"::1 - - [14/Feb/2026:07:40:54 +0000] \"POST /api/v1/login HTTP/1.1\" 200 579 \"-\" \"PostmanRuntime/7.51.1\"","timestamp":"2026-02-14 13:10:54"}
